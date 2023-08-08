@@ -1,0 +1,1 @@
+This is the first project of the TOP Foundations course. This project will demonstrate my understanding of the material thus far. Good luck to me
